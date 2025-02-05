@@ -1,0 +1,16 @@
+{
+  "name": "next-learn-hono-rpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "frontend": "pnpm -F \"frontend\"",
+    "backend": "pnpm -F \"backend\""
+  },
+  "dependencies": {
+    "hono": "^4.6.17"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
